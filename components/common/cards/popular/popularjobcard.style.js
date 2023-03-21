@@ -1,7 +1,7 @@
 import { StyleSheet } from "react-native";
 
 import { COLORS, FONT, SHADOWS, SIZES } from "../../../../constants";
-
+//selectedJob === item.job_id ? COLORS.primary : "#FFF",
 const styles = StyleSheet.create({
   container: (selectedJob, item) => ({
     width: 250,
@@ -53,6 +53,7 @@ const styles = StyleSheet.create({
     fontSize: SIZES.medium - 2,
     fontFamily: FONT.regular,
     color: "#B3AEC6",
+    marginTop: 5,
   },
 });
 

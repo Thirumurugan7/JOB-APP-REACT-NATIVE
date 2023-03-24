@@ -13,3 +13,8 @@ npx create-react-native-app -t with-router
 - [Expo Router: Docs](https://expo.github.io/router)
 - [Expo Router: Repo](https://github.com/expo/router)
 - [Request for Comments](https://github.com/expo/router/discussions/1)
+
+<h1> THIS APPLICATION USES RAPID API FOR THE MOCK DATA </H1>
+
+<CODE> npm i </code>
+<code> npm start </code>
